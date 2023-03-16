@@ -3,7 +3,7 @@
  atráves da Plataforma Curso em Video, também disponível no YouTube 
 
 
-# Minha Analise
+# Análise
  **Obs**:
  *  Por quê aprender Git e GitHub?
   
