@@ -6,6 +6,7 @@
 # Minha Analise
  **Obs**:
  *  Por quê aprender Git e GitHub?
+  
       A um tempo atrás eu estava fazendo alguns projetos em Python, porém deixava armazenado somente na maquina,
   essa maquina parou de funcionar e com isso eu perdi todos os projetos/programas.
       Ao comprar uma maquina nova, percebi que aprender a usar Git e GitHub seria essencial e que eu precisaria desse curso para 
