@@ -2,13 +2,40 @@
     font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
 }
+
 body{
     background-color: rgb(104, 163, 163);
 }
+
 main{
     background-color: bisque;
     width: 500px;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(rgb(62, 18, 86), rgb(141, 57, 169), rgb(64, 64, 121), alpha);
+}
+
+h1{
+    font-size: 2em;
+    color:rgb(5, 26, 84)
+}
+
+
+h2{
+    font-size: 1.5em;
+    color:rgb(5, 26, 84)
+}
+
+img.lado{
+    float: right;
+}
+
+a{
+    text-decoration: none;
+    font-weight: bold;
+    color: blueviolet;
+}
+a:hover{
+    text-decoration: underline;
+    color: rgb(64, 6, 118);
 }
