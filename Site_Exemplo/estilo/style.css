@@ -8,7 +8,7 @@ body{
 }
 
 main{
-    background-color: bisque;
+    background-color: rgb(87, 4, 143);
     width: 500px;
     margin: auto;
     padding: 10px;
@@ -28,14 +28,4 @@ h2{
 
 img.lado{
     float: right;
-}
-
-a{
-    text-decoration: none;
-    font-weight: bold;
-    color: blueviolet;
-}
-a:hover{
-    text-decoration: underline;
-    color: rgb(64, 6, 118);
 }
